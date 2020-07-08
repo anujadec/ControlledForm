@@ -74,7 +74,7 @@ class ControlledForm extends React.Component {
         </div>
 
         <div class="form-row">
-          <button type="submit" class="btn">
+          <button type="submit" className="btn">
             submit
           </button>
         </div>
